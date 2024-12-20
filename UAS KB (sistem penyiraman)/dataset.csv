@@ -1,0 +1,27 @@
+Deskripsi,Kelas
+"Tanah kering, daun layu, cuaca cerah",Butuh Penyiraman
+"Tanah kering, daun layu, cuaca berawan",Butuh Penyiraman
+"Tanah kering, daun layu, cuaca hujan",Tidak Butuh Penyiraman
+"Tanah kering, daun segar, cuaca cerah",Butuh Penyiraman
+"Tanah kering, daun segar, cuaca berawan",Butuh Penyiraman
+"Tanah kering, daun segar, cuaca hujan",Tidak Butuh Penyiraman
+"Tanah lembab, daun layu, cuaca cerah",Tidak Butuh Penyiraman
+"Tanah lembab, daun layu, cuaca berawan",Tidak Butuh Penyiraman
+"Tanah lembab, daun layu, cuaca hujan",Tidak Butuh Penyiraman
+"Tanah lembab, daun segar, cuaca cerah",Tidak Butuh Penyiraman
+"Tanah lembab, daun segar, cuaca berawan",Tidak Butuh Penyiraman
+"Tanah lembab, daun segar, cuaca hujan",Tidak Butuh Penyiraman
+"Tanah basah, daun layu, cuaca cerah",Tidak Butuh Penyiraman
+"Tanah basah, daun layu, cuaca berawan",Tidak Butuh Penyiraman
+"Tanah basah, daun layu, cuaca hujan",Tidak Butuh Penyiraman
+"Tanah basah, daun segar, cuaca cerah",Tidak Butuh Penyiraman
+"Tanah basah, daun segar, cuaca berawan",Tidak Butuh Penyiraman
+"Tanah basah, daun segar, cuaca hujan",Tidak Butuh Penyiraman
+"Tanah kering, daun layu, cuaca berawan",Butuh Penyiraman
+"Tanah lembab, daun segar, cuaca cerah",Butuh Penyiraman
+"Tanah lembab, daun segar, cuaca berawan",Butuh Penyiraman
+"Tanah lembab, daun layu, cuaca hujan",Butuh Penyiraman
+"Tanah basah, daun segar, cuaca berawan",Butuh Penyiraman
+"Tanah basah, daun segar, cuaca cerah",Butuh Penyiraman
+"Tanah kering, daun segar, cuaca berawan",Butuh Penyiraman
+"Tanah basah, daun layu, cuaca berawan",Butuh Penyiraman
